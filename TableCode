@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ripley's Aquarium!The Blue Team</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato: 100,300,400,700|Luckiest+Guy|Oxygen:300,400" rel="stylesheet">
+  <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
+  <ul class="navigation">
+    <li><img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-9/htmlcss1-img_logo-shiptoit.png" height="20px;"></li>
+    <li class="active"> Meet the Team</li>
+    <li>Contact Us!</li>
+    <li>FAQ, HELP, FURTHER READING</li>
+  </ul>
+
+  <div class="search">Search the Site</div>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>People</th>
+        <th>Daily Tickets</th>
+        <th>Seasonal Pass</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Adult</td>
+        <td>$35.00</td>
+        <td>$64.00</td>
+      </tr>
+      <tr>
+        <td>Youth 8-13</td>
+        <td>$24.25</td>
+        <td>$40.00</td>
+      </tr>
+      <tr>
+        <td>Child 3-7</td>
+        <td>$12.25</td>
+        <td>$12.00</td>
+      </tr>
+      <tr>
+        <td>Senior 65+</td>
+        <td>$24.50</td>
+        <td>$40.00</td>
+      </tr>
+      <tr>
+        <td>Summit Resort Rentals</td>
+        <td>4</td>
+        <td>Ship</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+       <td>Family Pass</td>
+			 <td>$90.00</td>
+      </tr>
+	  <tr>
+       <td>Family Pass + Youth Playarea Coverage</td>
+			 <td>$120.00</td>
+      </tr>
+    </tfoot>
+  </table>
+
+
+</body>
+</html>
